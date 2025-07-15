@@ -1,0 +1,1 @@
+select *from stu_information;
